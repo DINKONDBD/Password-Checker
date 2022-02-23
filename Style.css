@@ -1,0 +1,14 @@
+body{
+    background-color: 	#202020;
+}
+h1, h2, h3, h4, h5, p{
+    color:aliceblue;
+    text-align: center;
+    margin-top: 50px;
+}
+.pass{
+    margin-top: 200px;
+}
+.CheckBTN{
+    text-align: center;
+}
