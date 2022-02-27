@@ -1,6 +1,6 @@
 let result = "";
 let isGood = null;
-function hasNumber(myString) {
+function hasNumber(str) {
     return /\d/.test(myString);
   }
 function isUpper(str) {
