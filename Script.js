@@ -1,7 +1,7 @@
 let result = "";
 let isGood = null;
 function hasNumber(str) {
-    return /\d/.test(myString);
+    return /\d/.test(str);
   }
 function isUpper(str) {
     return !/[a-z]/.test(str) && /[A-Z]/.test(str);
