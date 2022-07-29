@@ -1,2 +1,2 @@
 # Password-Checker
-An JS password checker
+A JS password checker
